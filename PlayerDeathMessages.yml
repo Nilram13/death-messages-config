@@ -1493,12 +1493,12 @@ Mobs:
       - '&6%player%&c logged and still died. get a better client'
     Gang:
       Projectile-Arrow:
-      - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
+      - '&6%player%&c was ganged up on by %killer_type%! &6%killer%s&c shot them with %weapon%'
       - '&6%player%&c was executed by the &6%killer%&c cartel'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some %killer_type%s! &6%killer%s&c wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
+      - '&6%player%&c was slain by a bunch of &6%killer_type%s&c'
       - '&6%player%&c was eaten by a bunch of cannibals'
 Custom-Mobs:
   Mythic-Mobs:
