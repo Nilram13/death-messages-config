@@ -39,28 +39,7 @@
 # That's it.
 
 # Vanilla Entities
-Entities:
-  # Below is an example of how this section is setup. You can use any death-type like in PlayerDeathMessages.yml
-  wolf:
-    Tamed:
-    - '%killer% killed %owner%''s %entity%'
-    Projectile-Arrow:
-    - '%killer% 360''d Y Y''d a poor little doggy using %weapon%'
-    Weapon:
-    - '%killer% murdered a dog using %weapon%'
-    Melee:
-    - '%killer% killed a random dog'
-    Void:
-    - '%killer% pushed a random dog into the void'
-    TNT:
-    - '%killer% blew up a dog!'
-    Respawn-Anchor:
-    - '%killer% blew up a dog using a respawn-anchor'
-  enderdragon:
-    Projectile-Arrow:
-    - '%killer% 360''d Y Y''d the &6&lEnder Dragon &cusing %weapon%'
-    Melee:
-    - The Ender Dragon was taken down by %killer%!
+Entities: []
 
 # Mythic-Mob Entities https://mythiccraft.io/index.php?resources/mythicmobs.1/
 Mythic-Mobs-Entities:
