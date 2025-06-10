@@ -430,7 +430,7 @@ Mobs:
       - '&6%player%&c was slain by a &6%killer%&c using %weapon%'
       Melee:
       - '&6%player%&c was slain by a &6%killer%&c'
-      - '&6%killer%&c showed &6%player%&4 where Johnny was'
+      - '&6%killer%&c showed &6%player%&c where Johnny was'
     Gang:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
@@ -1468,12 +1468,12 @@ Mobs:
       - '&6%player%&c has fallen... billions must die'
       Lava:
       - '&6%player%&c tried to swim in lava while trying to escape &6%killer%&c'
-      - '&6%killer%&c decided to push a Jew named &6%player%&4 into the lava for a laugh'
+      - '&6%killer%&c decided to push a Jew named &6%player%&c into lava for a laugh'
       Explosion:
-      - '&6%killer%&c blew up &6%player%&4'
+      - '&6%killer%&c blew up &6%player%'
       TNT:
-      - '&6%killer%&c blew up &6%player%&4 with tnt'
-      - '&6%killer%&c jihaded all over &6%player%&4'
+      - '&6%killer%&c blew up &6%player%&c with tnt'
+      - '&6%killer%&c jihaded all over &6%player%'
       Firework:
       - '&6%player%&c stood too close to &6%killer%s&c fireworks'
       End-Crystal:
@@ -1481,7 +1481,7 @@ Mobs:
       - '&6%player%&c was killed by &6%killer%&c blowing up an end-crystal!'
       - '&6%player%&c got ez''d by &6%killer%&c'
       Void:
-      - '&6%killer%&c tripped &6%player%&4 knocking them into the void'
+      - '&6%killer%&c tripped &6%player%&c knocking them into the void'
       Wither:
       - '&6%player%&c got the &6%killer%&c brain virus and died'
       Thorns:
