@@ -143,15 +143,12 @@ Natural-Cause:
   - '&6%player%&c couldn''t breathe'
   - PERMISSION[deathmessages.premium]&6%player%&c was mashed up pretty good.
   Fall:
-  - '&6%player%&c thought he could fly. What an autist...'
   - '&6%player%&c has fallen... billions must die, starting from him'
   - '&6%player%&c broke their fucking legs'
   - '&6%player%&c turned into mush'
   - '&6%player%&c swan dived into cement'
   Climbable:
   - '&6%player%&c tried climbing to greater heights and fell off %climbable%'
-  - '&6%player%&c is so autistic they can''t even climb a ladder'
-  - '&6%player%&c thought he was a nigger, but fell off some vines...'
   - '&6%player%&c did it for the vine'
   - '&6%player%&c''s impression of Tarzan was so bad even the vines started crying'
   Fire:
@@ -688,10 +685,8 @@ Mobs:
       - '&6%player%&c was slain by a &6%killer%&c  using %weapon%'
       Explosion:
       - '&6%player%&c stood too close to a &6%killer%&c while it was spawning'
-      - '&6%player%&c visited Detroit and was shot in a drive-by by a three-headed nigger'
       Projectile-Fireball:
       - '&6%player%&c got skull emoji''d a tad too hard'
-      - '&6%player%&c didn''t see the gargantuan fucking nigger shooting TNT at them'
       Melee:
       - '&6%player%&c was slain by a &6%killer%&c'
     Gang:
@@ -1438,8 +1433,6 @@ Mobs:
       - '&6%player%&c stood too close to &6%killer%s&c respawn anchor in the %world_environment%'
       Contact:
       - '&6%player%&c was so terrified of &6%killer%&c he thought a cactus looked safe'
-      - '&6%player%&c tried tricking &6%killer%&c into walking into a cactus. Guess who the
-        autist was...'
       Projectile-Unknown:
       - '&6%player%&c was shot by &6%killer%&c'
       Projectile-Arrow:
